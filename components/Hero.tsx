@@ -61,7 +61,7 @@ const Hero = () => {
             Customer Support Assistant powered by AI
           </p>
 
-          <a href="https://forms.gle/qspKqz9GyRSeuEwG9" target="_blank">
+          <a href="https://airtable.com/appxgh06clCE26z1H/pagMk1KHUUaCwOEDL/form" target="_blank">
             <MagicButton
               title="Join the Waitlist!"
               icon={<FaLocationArrow />}
