@@ -24,7 +24,7 @@ const Footer = () => {
           Reach out to Curait team today and let&apos;s discuss how we can help
           you achieve your goals.
         </p>
-        <a href="https://forms.gle/qspKqz9GyRSeuEwG9" target="_blank">
+        <a href="https://airtable.com/appxgh06clCE26z1H/pagMk1KHUUaCwOEDL/form" target="_blank">
           <MagicButton
             title="Let's get in touch"
             icon={<FaLocationArrow />}
