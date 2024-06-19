@@ -6,11 +6,11 @@ const UseCases = () => {
         <h1 className="heading">
         <span className="text-purple">Curait in Action</span>
       </h1>
-       <div className="w-full h-full">
-            <div className='py-10'>
+       <div>
+            <div>
                 <img src="\CuraitCX4.png" alt="" /> 
             </div>
-            <div className=''>
+            <div>
                 <img src="\CuraitCX3.png" alt="" /> 
             </div>
         </div>
