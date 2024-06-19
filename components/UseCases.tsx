@@ -6,7 +6,7 @@ const UseCases = () => {
         <h1 className="heading">
         <span className="text-purple">Curait in Action</span>
       </h1>
-       <div className="w-full h-screen">
+       <div className="w-full h-full">
             <div className='py-10'>
                 <img src="\CuraitCX4.png" alt="" /> 
             </div>
