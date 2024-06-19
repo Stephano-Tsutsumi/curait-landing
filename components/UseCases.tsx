@@ -2,7 +2,7 @@ import React from 'react'
 
 const UseCases = () => {
   return (
-    <div className="py-36 w-full h-screen" id="solutions">
+    <div className="py-36 w-full" id="solutions">
         <h1 className="heading">
         <span className="text-purple">Curait in Action</span>
       </h1>
